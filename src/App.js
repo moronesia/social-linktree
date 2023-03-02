@@ -8,7 +8,7 @@ function App() {
         <div className="card-body">
           <div className="profile text-center">
             <img alt="#" src="/anjas.png" className="avatar" />
-            <h1>@anjasmoro</h1>
+            <h1>@moronesia</h1>
             <p>FrontEnd Developer</p>
           </div>
           <div className="mt-16">
