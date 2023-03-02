@@ -9,7 +9,7 @@ function App() {
           <div className="profile text-center">
             <img alt="#" src="/anjas.png" className="avatar" />
             <h1>@anjasmoro</h1>
-            <p>Frontend Developer</p>
+            <p>FrontEnd Developer</p>
           </div>
           <div className="mt-16">
             <a href="https://www.instagram.com/tunjung_anjasmoro/">Instagram</a>
